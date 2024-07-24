@@ -24,5 +24,5 @@ The purpose of this analysis is to identify risky loan applicants and reduce cre
 - Pay attention to the debt-to-income ratio when evaluating loan applications.
 
 ## Files Included
-- **Rajesh_Mishra.ipynb:** Jupyter notebook with the complete analysis code.
-- **LendingClubCaseStudy.pdf:** PowerPoint presentation summarizing the analysis and findings.
+- **omer.ipynb:** Jupyter notebook with the complete analysis code.
+- **LendingCluby.pdf:** PowerPoint presentation summarizing the analysis and findings.
